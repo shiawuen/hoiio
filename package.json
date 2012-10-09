@@ -1,0 +1,15 @@
+{
+  "name": "hoiio",
+  "version": "0.0.0",
+  "description": "Unofficial Hoiio API wrapper",
+  "keywords": ['hoiio', 'call', 'sms'],
+  "author": "Tan Shiaw Uen <shiawuen@gmail.com>",
+  "dependencies": {
+    "superagent": "0.9.x"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
