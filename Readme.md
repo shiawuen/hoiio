@@ -13,7 +13,7 @@
 - More tests
 - Mock the real API with a fake server respond with fixed contents based on parameters in API call
 - Validations before API call being sent out instead of rely on server to do the validation (probably simple validation for now)
-
+- Fake server in tests to check for notification responded (Mock the notifications as well?)
 
 ## License 
 
