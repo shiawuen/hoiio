@@ -3,6 +3,18 @@
 
   Unofficial Hoiio API wrapper
 
+# TODO
+
+- SMS API
+- Account API
+- Number API
+- IVR API
+- Fax API (maybe =\\)
+- More tests
+- Mock the real API with a fake server respond with fixed contents based on parameters in API call
+- Validations before API call being sent out instead of rely on server to do the validation (probably simple validation for now)
+
+
 ## License 
 
 (The MIT License)
