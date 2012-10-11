@@ -5,10 +5,6 @@
 
 ## TODO
 
-- SMS API
-- Account API
-- Number API
-- IVR API
 - Fax API (maybe =\\)
 - More tests
 - Mock the real API with a fake server respond with fixed contents based on parameters in API call
