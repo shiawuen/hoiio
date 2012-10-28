@@ -1,8 +1,8 @@
 {
   "name": "hoiio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Unofficial Hoiio API wrapper",
-  "keywords": ['hoiio', 'call', 'sms'],
+  "keywords": ["hoiio", "call", "sms"],
   "author": "Tan Shiaw Uen <shiawuen@gmail.com>",
   "dependencies": {
     "superagent": "0.9.x"
